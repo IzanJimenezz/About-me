@@ -1,7 +1,7 @@
 # Fiticlay
 
 # 💫 About Me:
-Tengo 18 años me encuentro trabajando en Ferchau como IT Support de la empresa, además estoy estudiando Desarrollo de Aplicaciones Web
+Tengo 20 años me encuentro trabajando en VidaCaixa como IT Support de la empresa, además estoy estudiando Desarrollo de Aplicaciones Web
 
 
 ## 🌐 Socials:
